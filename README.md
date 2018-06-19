@@ -2,7 +2,7 @@
 
 A script to download your moodle course resources from sapienza's moodle for courses that you are currently enrolled in.
 
-The moodler.py script downloads all the files posted in the course page of all the courses you are enrolled to.
+The moodler.py script downloads all the files posted in the course page of all the courses you are enrolled in.
 
 Set the following in the file config.conf before running the script:
 
@@ -11,7 +11,7 @@ Set the following in the file config.conf before running the script:
 	password [String] : Moodle Password
 	save_location [String] : The path to the directory where the files are to be stored.
 
-The script finds only courses in your course list. So make sure that you check https://elearning2.uniroma1.it/my fo a list of your courses.
+The script finds only courses in your course list. So make sure that you check https://elearning2.uniroma1.it/my for a list of your courses.
 
 REQUIREMENTS:
 
