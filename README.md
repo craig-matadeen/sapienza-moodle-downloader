@@ -29,7 +29,7 @@ REQUIREMENTS:
 Special thanks to:
 
 	Vinay Chandra	- https://github.com/vinaychandra/Moodle-Downloader
-	Daniel Vogt		- https://github.com/C0D3D3V/Moodle-Crawler
+	Daniel Vogt	- https://github.com/C0D3D3V/Moodle-Crawler
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at:
 
